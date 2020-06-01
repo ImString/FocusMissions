@@ -1,0 +1,13 @@
+MySQL:
+  Host: 'localhost:3306'
+  Database: 'database'
+  Usuario: 'root'
+  Senha: ''
+
+Commands:
+  KDR: 'especial RESET_KDR 1 ${player}'
+  Booster: 'givebooster ${player} 1'
+  Cash: 'cash dar ${player} 100000'
+  Lancador: 'especial LANCADOR 20 ${player}'
+  Armadilha: 'especial ARMADILHA 10 ${player}'
+  VIP: 'darvip ${player} nobre 30'

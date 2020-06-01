@@ -1,0 +1,6 @@
+name: FocusMissions
+main: me.stringdev.focusmissions.Main
+version: 1.2
+author: String
+commands:
+  missoes:
