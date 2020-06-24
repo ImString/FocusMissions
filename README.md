@@ -5,3 +5,7 @@ Este projeto foi criado para o Focus com intuito de ser um plugin de missões, m
 # Avisos
 
 Caso for liberar para download em algum lugar, deixar créditos!
+
+# Discord
+
+Nosso discord é: discord.gg/embreveheuheueheuhe
